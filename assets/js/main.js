@@ -73,9 +73,9 @@ const rundeAuf = (nummer, nachkomma) => parseFloat(nummer.toFixed(nachkomma));
 console.log(rundeAuf(3.1415926535, 5));
 
 // ***********************************
-//          JS Math lvl 1.4
+//          JS Math lvl 2.2
 // ***********************************
-console.log("%c JS Math lvl 1.4", "color:green");
+console.log("%c JS Math lvl 2.2", "color:green");
 
 const zahlenspiel = () => {
 
